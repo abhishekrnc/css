@@ -3,3 +3,8 @@
   color: orange;
   font-weight: bold;
 }
+
+span.special2, em.special2{
+  color: brown;
+  font-weight: bold;
+}
