@@ -4,14 +4,10 @@
   font-weight: bold;
 }
 
-
-
-span.special2, em.special2{    
-  color: brown;
-  font-weight: bold;
-}
-
-.list2
+.special2
 {
-  color: blueviolet;
+color: blue;
+
 }
+
+
