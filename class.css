@@ -19,3 +19,7 @@ color: blue;
 h1+p {
   color: chartreuse;
 }
+
+a:hover{
+  color: red;
+}
