@@ -7,3 +7,8 @@ li[class="a"]               /*for selecting a particular attribute with the simi
     color: brown;
     font-size: 300%;
 }
+
+li[class~="a"] /*Tilde is used to select all the thngs which has a class. */
+{
+    color: red;
+}
