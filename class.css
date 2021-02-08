@@ -16,7 +16,7 @@ color: blue;
 }
 
 
-h1+p {                        /*Here the 
+h1+p {                        /*Here it will selcect the p tag which is just below the h1 tag */
   color: chartreuse;
 }
 
