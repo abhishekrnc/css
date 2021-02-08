@@ -23,3 +23,9 @@ h1+p {                        /*Here it will selcect the p tag which is just bel
 a:hover{                     /*Here the a tag will get the hover property*/
   color: red;
 }
+
+h1+p .special3 {
+  color: yellow;
+  background-color: blueviolet;
+  padding: 5px;
+}
