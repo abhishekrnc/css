@@ -2,3 +2,7 @@
     color: red;
     background-color: black;
 }
+
+p#one {
+    color: blueviolet;    /*It will select the p tag with id one */
+}
